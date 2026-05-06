@@ -23,7 +23,7 @@ SCMoE achieves **robust segmentation performance on unseen domains**, demonstrat
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/SCMoE.git
+git clone https://github.com/SYC1123/SCMoE.git
 cd SCMoE
 pip install -r requirements.txt
 ```
